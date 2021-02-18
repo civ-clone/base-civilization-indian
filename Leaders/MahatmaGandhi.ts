@@ -8,7 +8,7 @@ export class MahatmaGandhi extends Leader {
   }
 
   name(): string {
-    return 'Abraham Lincoln';
+    return 'Mahatma Gandhi';
   }
 }
 

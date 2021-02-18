@@ -8,7 +8,7 @@ class MahatmaGandhi extends Leader_1.default {
         return Indian_1.default;
     }
     name() {
-        return 'Abraham Lincoln';
+        return 'Mahatma Gandhi';
     }
 }
 exports.MahatmaGandhi = MahatmaGandhi;
