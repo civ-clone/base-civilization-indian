@@ -12,9 +12,9 @@
     "@civ-clone/core-yield" "^0.1.0"
 
 "@civ-clone/core-data-object@^0.1.0":
-  version "0.1.1"
-  resolved "https://registry.yarnpkg.com/@civ-clone/core-data-object/-/core-data-object-0.1.1.tgz#d8dc8ee2d805ec2410b7f8cbf0725f9199019d42"
-  integrity sha512-kkET5mHzWYLtvwf9CwnyrnYPjajshdMOE4fVOL6QWRAaE1CViefL1zdftRZJ4GDe3PQuBJeK5UgEuvubJF4HOQ==
+  version "0.1.4"
+  resolved "https://registry.yarnpkg.com/@civ-clone/core-data-object/-/core-data-object-0.1.4.tgz#29c51d64f5e167f8a617928b43fa5702670a12fe"
+  integrity sha512-Qe39BKWzazXbeEZNec66+i1/jdnvEA7bzKVeVo0g2IPJTAeguKJE6dU92yiWnNDrpNI0aDpT0vJOC07v8jxrSA==
   dependencies:
     "@civ-clone/core-registry" "^0.1.0"
     ulid "^2.3.0"
@@ -38,9 +38,9 @@ prettier@^2.1.2:
   integrity sha512-PqyhM2yCjg/oKkFPtTGUojv7gnZAoG80ttl45O6x2Ug/rMJw4wcc9k6aaf2hibP7BGVCCM33gZoGjyvt9mm16Q==
 
 typescript@^4.0.3:
-  version "4.1.5"
-  resolved "https://registry.yarnpkg.com/typescript/-/typescript-4.1.5.tgz#123a3b214aaff3be32926f0d8f1f6e704eb89a72"
-  integrity sha512-6OSu9PTIzmn9TCDiovULTnET6BgXtDYL4Gg4szY+cGsc3JP1dQL8qvE8kShTRx1NIw4Q9IBHlwODjkjWEtMUyA==
+  version "4.2.3"
+  resolved "https://registry.yarnpkg.com/typescript/-/typescript-4.2.3.tgz#39062d8019912d43726298f09493d598048c1ce3"
+  integrity sha512-qOcYwxaByStAWrBf4x0fibwZvMRG+r4cQoTjbPtUlrWjBHbmCAww1i448U0GJ+3cNNEtebDteo/cHOR3xJ4wEw==
 
 ulid@^2.3.0:
   version "2.3.0"
