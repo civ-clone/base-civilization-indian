@@ -303,7 +303,6 @@ const CityNameRegistry_1 = require("@civ-clone/core-civilization/CityNameRegistr
     'Amaravati',
     'Buxar',
     'Jehanabad',
-    'Aurangabad',
     'Gangtok',
 ].forEach((name, i) => CityNameRegistry_1.instance.register(new CityName_1.default(name, Indian_1.default, i === 0)));
 //# sourceMappingURL=registerCityNames.js.map

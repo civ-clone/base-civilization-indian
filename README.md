@@ -1,4 +1,3 @@
 # base-civilization-indian
 
-This is a template repo.
-
+`Indian` `Civilization` class and `Leader`s classes, and `City` names.
